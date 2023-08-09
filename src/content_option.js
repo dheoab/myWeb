@@ -68,6 +68,11 @@ const dataportfolio = [
       "FlexWell: 30-day home workout challenge, unlock gym exercises, customize routines. Achieve fitness goals!",
     link: "https://github.com/FlexWell-Team/flexwell-client-mobile",
   },
+  {
+    img: "https://imgur.com/j1AQ8wG",
+    description: "NewsLetter: Newsletter from various categories",
+    link: "https://newsletter.dheoab.dev",
+  },
 ];
 
 const contactConfig = {
