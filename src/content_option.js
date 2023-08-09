@@ -69,7 +69,7 @@ const dataportfolio = [
     link: "https://github.com/FlexWell-Team/flexwell-client-mobile",
   },
   {
-    img: "https://imgur.com/j1AQ8wG",
+    img: "https://i.imgur.com/j1AQ8wG.jpg",
     description: "NewsLetter: Newsletter from various categories",
     link: "https://newsletter.dheoab.dev",
   },
